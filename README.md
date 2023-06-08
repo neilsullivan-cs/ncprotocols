@@ -1,2 +1,2 @@
-# protocols.github.io
+# ncprotocols
 NC State Protocols for EMS
